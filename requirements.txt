@@ -1,0 +1,6 @@
+snowflake-snowpark-python
+snowflake-connector-python[pandas]
+azure-storage-blob
+python-dotenv
+pandas
+notebook
